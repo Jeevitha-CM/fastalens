@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.fasta
+*.fa
+*.fna
+*.fastq
+*.gz
+!data/human_mrna.fasta
+!data/hbb_proteins.fasta
